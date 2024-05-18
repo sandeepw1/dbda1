@@ -1,0 +1,6 @@
+Database user name --- admin
+password ---- Admin@123
+
+
+AWS Security token -- $ubejb73471783@whfwe9
+
